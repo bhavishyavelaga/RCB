@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    border: 3px solid brown;
+}
+h3,th{
+    color: brown;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: purple;
+}
+.together{
+    display: inline-block;
+}
